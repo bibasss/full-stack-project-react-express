@@ -1,0 +1,289 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "ziko",
+      "email": "z1@gmail.com",
+      "password": "047047",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "test",
+      "email": "test@gmail.com",
+      "password": "047047",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "username": "test2",
+      "email": "123123",
+      "password": "tes2@gmail.com",
+      "role": "user"
+    },
+    {
+      "id": 4,
+      "username": "zairz",
+      "email": "z3@gmail.com",
+      "password": "047047",
+      "role": "user"
+    },
+    {
+      "id": 5,
+      "username": "zairz",
+      "email": "z4@gmail.com",
+      "password": "047047",
+      "role": "user"
+    },
+    {
+      "id": 6,
+      "username": "zairz",
+      "email": "z5@gmail.com",
+      "password": "047047",
+      "role": "user"
+    },
+    {
+      "id": 7,
+      "username": "zairz",
+      "email": "z6@gmail.com",
+      "password": "047047",
+      "role": "user"
+    },
+    {
+      "id": 8,
+      "username": "zefs",
+      "email": "456456",
+      "password": "za@gmail.com",
+      "role": "user"
+    },
+    {
+      "id": 9,
+      "username": "ze",
+      "email": "456456d",
+      "password": "zahd@gmail.com",
+      "role": "user"
+    },
+    {
+      "id": 10,
+      "username": "zedncj",
+      "email": "456456dd",
+      "password": "zahdd@gmail.com",
+      "role": "user"
+    },
+    {
+      "id": 11,
+      "username": "zedncj",
+      "email": "456456gigyugy",
+      "password": "zahdd@gmail.com",
+      "role": "user"
+    },
+    {
+      "id": 12,
+      "username": "zairz",
+      "email": "z7@gmail.com",
+      "password": "047047",
+      "role": "user"
+    },
+    {
+      "id": 13,
+      "username": "zedncj",
+      "email": "zahdgbkbdkm@gmail.com",
+      "password": "456456",
+      "role": "user"
+    },
+    {
+      "id": 14,
+      "username": "zedncj",
+      "email": "zahdgbkbhhhdkm@gmail.com",
+      "password": "456456",
+      "role": "user"
+    },
+    {
+      "id": 15,
+      "username": "test5",
+      "email": "td@gmail.com",
+      "password": "123123",
+      "role": "user"
+    },
+    {
+      "id": 16,
+      "username": "test5",
+      "email": "tds@gmail.com",
+      "password": "123123",
+      "role": "user"
+    },
+    {
+      "id": 17,
+      "username": "Ziko",
+      "email": "s@gmail.com",
+      "password": "12313",
+      "role": "user"
+    },
+    {
+      "id": 18,
+      "username": "bjb",
+      "email": "ns@gmail.com",
+      "password": "159",
+      "role": "user"
+    },
+    {
+      "id": 19,
+      "username": "test5",
+      "email": "t@gmail.com",
+      "password": "123123",
+      "role": "user"
+    },
+    {
+      "id": 20,
+      "username": "sss",
+      "email": "ss@gmail.com",
+      "password": "123123",
+      "role": "user"
+    },
+    {
+      "id": 21,
+      "username": "",
+      "email": "",
+      "password": "",
+      "role": "user"
+    },
+    {
+      "id": 22,
+      "username": "test 12",
+      "email": "test112@gmail.com",
+      "password": "047047",
+      "role": "user"
+    },
+    {
+      "id": 23,
+      "username": "tests",
+      "email": "r@gmail.com",
+      "password": "047047",
+      "role": "user"
+    },
+    {
+      "id": 24,
+      "username": "test1@gmail.com",
+      "email": "as@gmail.com",
+      "password": "123123",
+      "role": "user"
+    },
+    {
+      "id": 25,
+      "username": "azicus",
+      "email": "azicus@gmail.com",
+      "password": "azicus123",
+      "role": "user"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "all"
+    },
+    {
+      "id": 1,
+      "name": "Clothes"
+    },
+    {
+      "id": 2,
+      "name": "Musical instrument"
+    },
+    {
+      "id": 3,
+      "name": "Car"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "post_header": "Frying pan 22",
+      "post_type": "Car",
+      "img_src": "https://i.pinimg.com/564x/cf/b8/83/cfb88324061790a7ed0f71ff7e6d234c.jpg",
+      "post_text": "I need money",
+      "about": "udghd",
+      "cost": "30003",
+      "user_id": 1
+    },
+    {
+      "id": 2,
+      "post_header": "Glasses",
+      "post_type": "Something",
+      "img_src": "https://i.pinimg.com/564x/90/cd/ed/90cded19792f262e6d7467345e9fd4a1.jpg",
+      "post_text": "I want to sell my glasses",
+      "about": "",
+      "cost": 4000,
+      "user_id": 1
+    },
+    {
+      "id": 3,
+      "post_header": "Hat",
+      "post_type": "Clothes",
+      "img_src": "https://i.pinimg.com/564x/52/ec/8a/52ec8a2b51749088c6b9ce0761ba54fb.jpg",
+      "post_text": "I want to sell my рat",
+      "about": "",
+      "cost": 2000,
+      "user_id": 1
+    },
+    {
+      "id": 4,
+      "post_header": "Sneakers",
+      "post_type": "Clothes",
+      "img_src": " https://i.pinimg.com/564x/fa/eb/b2/faebb299aaad7b6a19013406bee84cd3.jpg",
+      "post_text": "I want to sell my Sneakers",
+      "about": "",
+      "cost": 8000,
+      "user_id": 1
+    },
+    {
+      "id": 5,
+      "post_header": "Wig2",
+      "post_type": "Musical instrument",
+      "img_src": "https://i.pinimg.com/564x/d6/a6/0e/d6a60eb6319cb4694d0c22dfd2e4211d.jpg",
+      "post_text": "I want to sell my wig",
+      "about": "",
+      "cost": 3000,
+      "user_id": 1
+    },
+    {
+      "id": 6,
+      "post_header": "Car",
+      "post_type": "Car",
+      "img_src": "https://i.pinimg.com/564x/07/65/26/076526c35ddb9efc30a1b027b9fbed2d.jpg",
+      "post_text": "I want to sell my car",
+      "about": "",
+      "cost": 500000,
+      "user_id": 1
+    },
+    {
+      "id": 7,
+      "post_header": "Car",
+      "post_type": "Car",
+      "img_src": "https://i.pinimg.com/564x/57/22/16/572216a177cbd4498f0c4a75dd9387ce.jpg",
+      "post_text": "I want to sell my great japan car!",
+      "about": "teeest",
+      "cost": "980000",
+      "user_id": 2
+    },
+    {
+      "id": 8,
+      "post_header": "Headphone",
+      "post_type": "Musical instrument",
+      "img_src": "https://i.pinimg.com/564x/80/24/76/8024768dca9215798683dd945f0b4f22.jpg",
+      "post_text": "I want to sell my headphone",
+      "about": "",
+      "cost": 15000,
+      "user_id": 1
+    },
+    {
+      "id": 9,
+      "post_header": "Manga",
+      "post_type": "Clothes",
+      "img_src": "https://i.pinimg.com/564x/2f/1e/fa/2f1efab9dc5e064c4cf399f5c2757d0f.jpg",
+      "post_text": "Who is?",
+      "about": "Who is?",
+      "cost": 1,
+      "user_id": 15
+    }
+  ]
+}
